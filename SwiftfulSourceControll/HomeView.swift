@@ -8,11 +8,16 @@
 import SwiftUI
 
 struct HomeView: View {
-    var body: some View {
-        Text("Screen 2!")
+  var body: some View {
+    ZStack {
+      Text("Screen 2!")
+      
+      Text("Screen 2!")
+      Text("Screen 2!")
     }
+  }
 }
 
 #Preview {
-    HomeView()
+  HomeView()
 }
