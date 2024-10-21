@@ -14,7 +14,9 @@
  Pull = Fetch remote commits to local repo
  Merge = Joining two different branch
  Rebase = Moving one branch on top of another branch
- Chery picking = Duplicating (copying) one commit from one branch to another
+ Chery Picking = Duplicating (copying) one commit from one branch to another
+ Pull Request (PR) = Request to merge branch
+ 
  
  COMMIT MESSAGES
  
